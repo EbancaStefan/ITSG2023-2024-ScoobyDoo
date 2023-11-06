@@ -1,4 +1,8 @@
-.container{
-background-color: yellow;
-margin: auto;
+.box{
+height: 900px;
+background-color: grey;
+margin: 100px;
+padding: 10px;
+border: 2px solid black;
+border-radius: 25px;
 }
